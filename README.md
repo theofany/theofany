@@ -12,6 +12,8 @@ When I’m not crunching numbers, I enjoy writing about technology. I have a par
 <a href="https://www.instagram.com/theofany07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="profile instagram" height="30" width="40" /></a>
 </p>
 
+---
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -26,6 +28,7 @@ When I’m not crunching numbers, I enjoy writing about technology. I have a par
 <img align="left" alt="Shell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg"/>
 <img align="left" alt="laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
 
+---
 
 ### 📊 Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theofany&show_icons=true&locale=en&layout=compact" alt="theofany" /></p>
